@@ -45,6 +45,12 @@
       "title": "Tools",
       "description": "This quadrant features a variety of tools, from small utilities to large-scale software projects.",
       "color": "#F2A25C"
+    },
+    {
+      "id": "tools trails",
+      "title": "Tools Trials",
+      "description": "This quadrant features a variety of tools that has been trail, from small utilities to large-scale software projects.",
+      "color": "#F2A25D"
     }
   ],
   "rings": [
