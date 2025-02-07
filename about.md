@@ -1,17 +1,11 @@
-# How to use the AOE Technology Radar
+# How to use the EVERSE Technology Radar
 
 ### Introduction
 
-Technology is advancing rapidly, with new technologies and innovations constantly emerging.
+Technology Watch(TW), developed as part of EVERSE project, contains a collection of software quality tools and their metadata in terms of quality indicators and quality dimentions. It contains all the tools for research software quality that align, adapt, and extend to the specific needs of various research communities.
 
-It is essential for a development and technology company like AOE to continually improve and keep
-track of the latest valuable innovations. It is important to actively seek out innovations and new
-technologies and periodically question established technologies and methods.
 
-But, it is also important to wisely choose which technologies to use in our daily work and in the
-different projects we are carrying out. As we all know: There is no silver bullet.
-
-### What is the AOE Technology Radar?
+### What is the EVERSE Technology Radar?
 
 The Tech Radar provides an overview of different technologies, including languages, frameworks,
 tools, and patterns, as well as platforms, that we consider 'new or noteworthy.' The radar does not
@@ -38,7 +32,7 @@ Its goal is to guide and inspire daily work within the teams. Additionally, it a
 valuable information and a high-level perspective to enable decisions to be made with a deeper
 understanding of the subject matter, resulting in more informed and coordinated choices.
 
-We also hope that developers outside of AOE will find the information in our technology overview
+We also hope that developers outside of EVERSE will find the information in our technology overview
 inspiring.
 
 We categorize the items into four quadrants, and sometimes, when it's not entirely clear where an
@@ -60,20 +54,16 @@ item belongs, we choose the best fit.
 
 #### Each of the items is classified in one of these rings:
 
-- **Adopt:** We wholeheartedly recommend this technology. It has been extensively used in many teams
+- **analysis code:** We wholeheartedly recommend this technology. It has been extensively used in many teams
   for an extended period, proving its stability and utility.
-- **Trial:** We have successfully implemented this technology and suggest taking a closer look at it
+- **prototype tools:** We have successfully implemented this technology and suggest taking a closer look at it
   in this category. The aim here is to scrutinize these items more closely with the intention of
   elevating them to the 'Adopt' level.
-- **Assess:** We have experimented with this technology and find it promising. We recommend
+- **research infrastructure software:** We have experimented with this technology and find it promising. We recommend
   exploring these items when you encounter a specific need for the technology in your project.
-- **Hold:** This category is somewhat unique. Unlike the others, it advises discontinuing or
-  refraining from using certain technologies. This does not necessarily imply that they are
-  inherently bad; it often may be acceptable to use them in existing projects. However, we move
-  items here when we believe they should no longer be employed, as we have identified better options
-  or alternatives.
 
-### Contributing to the AOE Technology Radar
 
-Contributions and source code of the AOE Tech Radar are on
-GitHub: [AOE Tech Radar on GitHub](https://github.com/AOEpeople/aoe_technology_radar)
+### Contributing to the EVERSE Technology Radar
+
+Contributions and source code of the EVERSE Tech Radar are on
+GitHub: [EVERSE Tech Radar on GitHub](https://github.com/shraddha-bajare/techradar)

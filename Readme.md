@@ -1,29 +1,10 @@
-# AOE Technology Radar - Content
+# EVERSE Technology Radar - Content
 
-This is the location of AOE techradar content - published under: https://www.aoe.com/techradar/
+This is the location of EVERSE techradar content - published under: https://shraddha-bajare.github.io/techradar
 
-If you want to build your own techradar you may want to have a look at https://github.com/AOEpeople/aoe_technology_radar instead.
 
 ## Content Guidelines
-
-New blips should be tagged. The following tags are currently established:
-
-* architecture
-* security
-* devops
-* frontend
-* agile
-* coding
-* quality assurance
-* ci/cd
-* ux/ui
-* documentation
-
-e.g. use like this:
-
-```md
-tags: [devops, security]
-```
+WIP
 
 ## Development
 
