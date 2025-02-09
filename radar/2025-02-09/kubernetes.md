@@ -1,9 +1,9 @@
 ---
 
 title: "kubernetes"
-ring: analysis code
-quadrant: platforms-and-services
-tags: free
+ring: research software infra
+quadrant: source-code-management
+tags: ['Usability', ' Portability']
 ---
 https://kubernetes.io
 automating deployment, scaling, and management of containerized applications

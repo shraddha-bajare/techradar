@@ -1,9 +1,9 @@
 ---
 
 title: "Pelican"
-ring: analysis code
-quadrant: source-code-management
-tags: free
+ring: research software infra
+quadrant: platforms-and-services
+tags: ['Documentation']
 ---
 https://getpelican.com
 static website generation based on Python

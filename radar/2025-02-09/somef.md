@@ -1,9 +1,9 @@
 ---
 
 title: "SOMEF"
-ring: prototype tools
+ring: research software infra
 quadrant: platforms-and-services
-tags: paid
+tags: ['Documentation']
 ---
 https://github.com/KnowledgeCaptureAndDiscovery/somef
 Software Metadata Extraction Framework. A command line interface for automatically extracting relevant information from readme files.

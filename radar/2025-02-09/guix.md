@@ -2,8 +2,8 @@
 
 title: "Guix"
 ring: analysis code
-quadrant: platforms-and-services
-tags: license
+quadrant: Documentation
+tags: ['Usability', ' Reproducability', ' Portability']
 ---
 https://guix.gnu.org
 Packaging system

@@ -1,9 +1,9 @@
 ---
 
 title: "Dependabot"
-ring: research software infra
-quadrant: Documentation
-tags: CI/CD
+ring: analysis code
+quadrant: platforms-and-services
+tags: ['Security', ' Functional sustainability', ' Long-term usability', ' Maintainability']
 ---
 https://github.com/dependabot/dependabot-core
 generate automated pull requests updating dependencies for projects

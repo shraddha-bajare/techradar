@@ -1,9 +1,9 @@
 ---
 
 title: "checkstyle"
-ring: prototype tools
-quadrant: fairness
-tags: CI/CD
+ring: research software infra
+quadrant: Documentation
+tags: ['Code analysis']
 ---
 https://chechstyle.sourceforge.net
 Static code analysis for Java

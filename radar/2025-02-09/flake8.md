@@ -1,9 +1,9 @@
 ---
 
 title: "flake8"
-ring: prototype tools
-quadrant: Documentation
-tags: online-services
+ring: research software infra
+quadrant: platforms-and-services
+tags: ['Code analysis']
 ---
 https://flake8.pycqa.org
 Static code analysis for python

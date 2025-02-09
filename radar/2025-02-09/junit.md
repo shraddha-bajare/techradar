@@ -1,9 +1,9 @@
 ---
 
 title: "JUnit"
-ring: prototype tools
+ring: research software infra
 quadrant: Documentation
-tags: free
+tags: ['Code analysis']
 ---
 https://junit.org
 Java testing tool

@@ -1,9 +1,9 @@
 ---
 
 title: "GitHub Actions"
-ring: analysis code
-quadrant: Documentation
-tags: paid
+ring: research software infra
+quadrant: fairness
+tags: ['Security', ' Code analysis', ' Functionnal sustainability', ' Long-term usability']
 ---
 https://github.com/features/actions
 Integration, Delivery and Deployment

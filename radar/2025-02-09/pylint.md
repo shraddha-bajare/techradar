@@ -1,9 +1,9 @@
 ---
 
 title: "Pylint"
-ring: research software infra
-quadrant: source-code-management
-tags: free
+ring: analysis code
+quadrant: Documentation
+tags: ['Code analysis']
 ---
 https://pylint.pycqa.org
 Static code analysis for Python

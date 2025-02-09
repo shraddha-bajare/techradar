@@ -1,9 +1,9 @@
 ---
 
 title: "RPM"
-ring: analysis code
-quadrant: fairness
-tags: CI/CD
+ring: research software infra
+quadrant: platforms-and-services
+tags: ['Usability', ' Reproducability', ' Portability']
 ---
 https://rpm.org
 Packaging system

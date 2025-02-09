@@ -11,7 +11,7 @@ accessibility = ["CI/CD", "command-line", "online-services", "free", "paid", "li
 def df2md(row):
     quadrant = np.random.choice(quality_attributes)
     ring = np.random.choice(software_tier)
-    tags = np.random.choice(accessibility)
+    tags = str(row[5]).split(",") if str(row[5])!="nan" else []
     return f"""---
 
 title: "{row['Name']}"

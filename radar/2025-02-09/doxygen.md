@@ -1,9 +1,9 @@
 ---
 
 title: "Doxygen"
-ring: research software infra
-quadrant: platforms-and-services
-tags: CI/CD
+ring: analysis code
+quadrant: fairness
+tags: ['Documentation']
 ---
 https://www.doxygen.nl
 automate documentation

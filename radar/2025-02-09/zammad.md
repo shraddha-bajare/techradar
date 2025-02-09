@@ -1,9 +1,9 @@
 ---
 
 title: "Zammad"
-ring: research software infra
+ring: analysis code
 quadrant: fairness
-tags: license
+tags: ['Community']
 ---
 https://zammad.com
 Ticketing System

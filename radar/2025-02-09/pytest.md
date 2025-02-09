@@ -1,9 +1,9 @@
 ---
 
 title: "pytest"
-ring: analysis code
-quadrant: Documentation
-tags: command-line
+ring: prototype tools
+quadrant: platforms-and-services
+tags: ['Code analysis']
 ---
 https://docs.pytest.org/en/latest/
 Python testing tool.

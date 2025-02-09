@@ -1,9 +1,9 @@
 ---
 
 title: "Jenkins"
-ring: analysis code
+ring: prototype tools
 quadrant: source-code-management
-tags: CI/CD
+tags: ['Security', ' Code analysis', ' Functionnal sustainability', ' Long-term usability']
 ---
 https://www.jenkins.io
 automation server to support building, testing and deploying software

@@ -1,9 +1,9 @@
 ---
 
 title: "CMake"
-ring: research software infra
+ring: prototype tools
 quadrant: platforms-and-services
-tags: paid
+tags: ['Usability', ' Reproducability', ' Portability']
 ---
 https://cmake.org
 Build System

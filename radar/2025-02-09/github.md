@@ -1,9 +1,9 @@
 ---
 
 title: "github"
-ring: prototype tools
-quadrant: Documentation
-tags: online-services
+ring: research software infra
+quadrant: source-code-management
+tags: ['Documentation', ' Community', ' Code analysis', ' Security', ' Maintainability']
 ---
 https://github.com/
 Development platform

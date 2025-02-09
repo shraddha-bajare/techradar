@@ -1,9 +1,9 @@
 ---
 
 title: "GitHub Pages"
-ring: research software infra
-quadrant: source-code-management
-tags: paid
+ring: prototype tools
+quadrant: Documentation
+tags: ['Documentation']
 ---
 https://pages.github.com
 publish static websites directly from GitHub repository

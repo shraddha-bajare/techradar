@@ -2,8 +2,8 @@
 
 title: "MkDocs"
 ring: prototype tools
-quadrant: platforms-and-services
-tags: online-services
+quadrant: fairness
+tags: ['Documenation']
 ---
 https://www.mkdocs.org/
 Create static documentation for software projects.

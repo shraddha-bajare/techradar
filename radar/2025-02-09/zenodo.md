@@ -1,9 +1,9 @@
 ---
 
 title: "Zenodo"
-ring: analysis code
-quadrant: Documentation
-tags: command-line
+ring: prototype tools
+quadrant: fairness
+tags: []
 ---
 https://zenodo.org/
 Open repository for EU-funded research outputs from Horizon Europe, Euratom, and earlier Framework Programmes.
