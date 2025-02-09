@@ -4,8 +4,8 @@ from datetime import datetime
 from pathlib import Path
 
 # needs to be changed overall in the website
-quality_attributes = ["languages-and-frameworks", "methods-and-patterns", "platforms-and-operations", "tools"]
-software_tier = ["analysis code", "prototype tools", "research infrastructure software"]
+quality_attributes = ["source-code-management", "fairness", "platforms-and-services", "Documentation"]
+software_tier = ["analysis code", "prototype tools", "research software infra"]
 accessibility = ["CI/CD", "command-line", "online-services", "free", "paid", "license"]
 
 def df2md(row):
