@@ -53,7 +53,7 @@
       "title": "Research software infra",
       "description": "This involves software that captures broadly accepted ideas, methods and models for use in research, warranting close researcher involvement in their development. This tier represents broadly applicable research software, often with a large and possibly distributed development team.",
       "color": "#5cb449",
-      "radius": 0.25,
+      "radius": 0.4,
       "strokeWidth": 3
     },
     {
