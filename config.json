@@ -49,9 +49,9 @@
   ],
   "rings": [
     {
-      "id": "analysis code",
-      "title": "Analysis code",
-      "description": "This refers research software that captures computational research processes and methodology, often used in simulation, data generation, preparation, analysis and visualisation. It typically represents software created for personal use with a small scope, such as analysis scripts.",
+      "id": "research software infra",
+      "title": "Research software infra",
+      "description": "This involves software that captures broadly accepted ideas, methods and models for use in research, warranting close researcher involvement in their development. This tier represents broadly applicable research software, often with a large and possibly distributed development team.",
       "color": "#5cb449",
       "radius": 0.25,
       "strokeWidth": 3
@@ -65,8 +65,8 @@
       "strokeWidth": 2
     },
     {
-      "id": "research software infra",
-      "title": "Research software infra",
+      "id": "analysis code",
+      "title": "Analysis code",
       "description": "This involves software that captures broadly accepted ideas, methods and models for use in research, warranting close researcher involvement in their development. This tier represents broadly applicable research software, often with a large and possibly distributed development team.",
       "color": "#029df7",
       "radius": 1,
