@@ -53,7 +53,7 @@
       "title": "Research software infra",
       "description": "This involves software that captures broadly accepted ideas, methods and models for use in research, warranting close researcher involvement in their development. This tier represents broadly applicable research software, often with a large and possibly distributed development team.",
       "color": "#5cb449",
-      "radius": 0.4,
+      "radius": 0.5,
       "strokeWidth": 3
     },
     {
@@ -61,7 +61,7 @@
       "title": "Prototype tools",
       "description": "This refers to research software that demonstrates a new idea, method or model for use beyond the project in which it originated, often as a substantive intellectual contribution or proof of concept. These tools are designed to answer multiple research questions and are typically developed and used by more than one person.",
       "color": "#faa03d",
-      "radius": 0.6,
+      "radius": 0.89,
       "strokeWidth": 2
     },
     {
