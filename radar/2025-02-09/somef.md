@@ -2,7 +2,7 @@
 
 title: "SOMEF"
 ring: research software infra
-quadrant: platforms-and-services
+quadrant: documentation
 tags: ['Documentation']
 ---
 https://github.com/KnowledgeCaptureAndDiscovery/somef

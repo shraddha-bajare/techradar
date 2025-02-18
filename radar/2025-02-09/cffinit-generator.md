@@ -2,7 +2,7 @@
 
 title: "CFFINIT Generator"
 ring: analysis code
-quadrant: fairness
+quadrant: documentation
 tags: ['Documentation']
 ---
 https://citation-file-format.github.io/cff-initializer-javascript/#/

@@ -1,8 +1,8 @@
 ---
 
 title: "Bandit"
-ring: prototype tools
-quadrant: fairness
+ring: analysis code
+quadrant: source-code-management
 tags: ['Security']
 ---
 https://github.com/PyCQA/bandit

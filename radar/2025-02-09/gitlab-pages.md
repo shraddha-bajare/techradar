@@ -1,9 +1,9 @@
 ---
 
 title: "GitLab Pages"
-ring: prototype tools
-quadrant: source-code-management
+ring: analysis code
+quadrant: documentation
 tags: ['Documentation']
 ---
 https://docs.gitlab.com/ee/user/project/pages/
-publish static websites directly from GitLab repository
+Publish static websites directly from GitLab repository

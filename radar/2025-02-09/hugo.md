@@ -1,9 +1,9 @@
 ---
 
 title: "Hugo"
-ring: research software infra
-quadrant: source-code-management
+ring: analysis code
+quadrant: documentation
 tags: ['Documentation']
 ---
 https://gohugo.io
-static website generation based on Go
+Static website generation based on Go

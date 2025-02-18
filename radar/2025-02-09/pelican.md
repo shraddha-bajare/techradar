@@ -1,9 +1,9 @@
 ---
 
 title: "Pelican"
-ring: research software infra
-quadrant: platforms-and-services
+ring: analysis code
+quadrant: documentation
 tags: ['Documentation']
 ---
 https://getpelican.com
-static website generation based on Python
+Static website generation based on Python

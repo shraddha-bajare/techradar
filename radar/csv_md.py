@@ -4,7 +4,7 @@ from datetime import datetime
 from pathlib import Path
 
 # needs to be changed overall in the website
-quality_attributes = ["source-code-management", "fairness", "platforms-and-services", "Documentation"]
+quality_attributes = ["source-code-management", "fairness", "platforms-and-services", "documentation"]
 software_tier = ["analysis code", "prototype tools", "research software infra"]
 accessibility = ["CI/CD", "command-line", "online-services", "free", "paid", "license"]
 

@@ -2,7 +2,7 @@
 
 title: "CodeMeta Generator"
 ring: prototype tools
-quadrant: fairness
+quadrant: documentation
 tags: ['Documentation']
 ---
 https://codemeta.github.io/codemeta-generator/

@@ -2,7 +2,7 @@
 
 title: "Bearer"
 ring: analysis code
-quadrant: Documentation
+quadrant: source-code-management
 tags: ['Security']
 ---
 https://github.com/bearer/bearer

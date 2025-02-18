@@ -2,7 +2,7 @@
 
 title: "HERMES Workflow"
 ring: prototype tools
-quadrant: fairness
+quadrant: documentation
 tags: ['Documentation']
 ---
 https://docs.software-metadata.pub/en/latest/

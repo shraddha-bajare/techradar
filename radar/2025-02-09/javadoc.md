@@ -2,7 +2,7 @@
 
 title: "Javadoc"
 ring: analysis code
-quadrant: fairness
+quadrant: documentation
 tags: ['Documentation']
 ---
 https://www.oracle.com/java/technologies/javase/javadoc-tool.html

@@ -2,7 +2,7 @@
 
 title: "Zenodo"
 ring: prototype tools
-quadrant: fairness
+quadrant: platform-and-services
 tags: []
 ---
 https://zenodo.org/
